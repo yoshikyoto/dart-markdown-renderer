@@ -1,0 +1,4 @@
+[submodule "dart-lang/markdown"]
+    path = dart/markdown
+    url = git@github.com:dart-lang/markdown.git
+    
